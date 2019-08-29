@@ -7,14 +7,14 @@ namespace ProductAPI.Tests
     public class ProductTests
     {
         [Test]
-        public void Test1()
+        public void EmptyProductHasNullDescription()
         {
             var product = new Product();
             Assert.IsNull(product.Description);
         }
 
         [Test]
-        public void Test2()
+        public void NameOfProduct()
         {
             // arrange
             var product = new Product{
@@ -32,7 +32,7 @@ namespace ProductAPI.Tests
         }
 
         [Test]
-        public void Test3()
+        public void NameOfSecondProductInAList()
         {
             // arrange
             var product_list = new List<Product>{

@@ -1,7 +1,7 @@
-using System;
+// using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+// using System.Linq;
+// using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ProductAPI.Models;
 
@@ -10,9 +10,9 @@ namespace ProductAPI.Controllers
     [Route("api/[controller]")]
     public class ProductController : Controller
     {
-        public IEnumerable<Product> GetAll()
+        public ActionResult GetAll()
         {
-            return new List<Product>{
+            var productList= new List<Product>{
                 new Product {
                     ProductID = 1,
                     Name = "My First Awesome Product",
@@ -24,6 +24,8 @@ namespace ProductAPI.Controllers
                     Description="This product doesn't have a description either :D"
                 }
             };
+
+            return Ok(productList);
         }
     }
 }
