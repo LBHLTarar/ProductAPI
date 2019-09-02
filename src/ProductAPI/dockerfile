@@ -1,0 +1,17 @@
+# Define an existing image that will be pulled from the docker hub repos
+FROM microsoft/dotnet:2.2-sdk
+
+# Copy csproj to the image and restore dependencies
+WORKDIR /app
+COPY *.csproj ./
+RUN dotnet restore
+
+# Copy everything else and build
+COPY . ./
+# RUN dotnet publish -c Release -o out
+
+# # Expose the 5000 port and set a default command for the container
+EXPOSE 5000
+CMD ASPNETCORE_URLS=http://+:${PORT:-5000} dotnet ./out/ProductAPI.dll
+
+

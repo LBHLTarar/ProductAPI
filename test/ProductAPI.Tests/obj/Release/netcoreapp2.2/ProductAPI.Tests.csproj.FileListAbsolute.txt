@@ -1,0 +1,17 @@
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/ProductAPI.Tests.deps.json
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/ProductAPI.Tests.runtimeconfig.json
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/ProductAPI.Tests.runtimeconfig.dev.json
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/ProductAPI.Tests.dll
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/ProductAPI.Tests.pdb
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/ProductAPI.dll
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/bin/Release/netcoreapp2.2/ProductAPI.pdb
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/obj/Release/netcoreapp2.2/ProductAPI.Tests.csprojAssemblyReference.cache
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/obj/Release/netcoreapp2.2/ProductAPI.Tests.csproj.CoreCompileInputs.cache
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/obj/Release/netcoreapp2.2/ProductAPI.Tests.AssemblyInfoInputs.cache
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/obj/Release/netcoreapp2.2/ProductAPI.Tests.AssemblyInfo.cs
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/obj/Release/netcoreapp2.2/ProductAPI.Tests.csproj.CopyComplete
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/obj/Release/netcoreapp2.2/ProductAPI.Tests.dll
+/Users/ltarar/Dropbox/ProductAPI/test/ProductAPI.Tests/obj/Release/netcoreapp2.2/ProductAPI.Tests.pdb

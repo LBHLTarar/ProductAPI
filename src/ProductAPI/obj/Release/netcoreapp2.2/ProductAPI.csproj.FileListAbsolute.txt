@@ -1,0 +1,14 @@
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/bin/Release/netcoreapp2.2/ProductAPI.deps.json
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/bin/Release/netcoreapp2.2/ProductAPI.runtimeconfig.json
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/bin/Release/netcoreapp2.2/ProductAPI.runtimeconfig.dev.json
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/bin/Release/netcoreapp2.2/ProductAPI.dll
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/bin/Release/netcoreapp2.2/ProductAPI.pdb
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.csprojAssemblyReference.cache
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.csproj.CoreCompileInputs.cache
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.RazorAssemblyInfo.cache
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.RazorAssemblyInfo.cs
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.AssemblyInfoInputs.cache
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.AssemblyInfo.cs
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.RazorTargetAssemblyInfo.cache
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.dll
+/Users/ltarar/Dropbox/ProductAPI/src/ProductAPI/obj/Release/netcoreapp2.2/ProductAPI.pdb
