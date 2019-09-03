@@ -3,21 +3,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ProductAPI" expanded="True">
-            <Node name="ProductAPI" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-                <Node name="SdkDependencies" expanded="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
-            </Node>
-            <Node name="ProductAPI.Tests" expanded="True" selected="True" />
+          <Node name="ProductAPI" expanded="True" selected="True">
+            <Node name="ProductAPI" expanded="True" />
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="ProductAPI" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
