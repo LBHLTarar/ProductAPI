@@ -1,0 +1,16 @@
+version: '3'
+services:
+  ProductAPI:
+    image: tuesdayimage:latest
+    build:
+      context: ProductAPI
+      dockerfile: ./Dockerfile
+    ports:
+      - 5000:5000
+
+#  # build containers attached to a service
+# docker-compose build <service>
+# # build, recreate and run containers attached to a service
+# docker-compose up <service>
+# # stop containers attached to a service
+# docker-compose stop <service>
